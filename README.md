@@ -99,14 +99,6 @@ benchmarking-proveedores/
 
 ```
 
----
 
-### ¿Qué he ajustado?
-* **Badges:** Añadí insignias visuales al principio para las tecnologías principales.
-* **Iconos (Emojis):** Ayudan a identificar secciones rápidamente (Instalación, Uso, Estructura).
-* **Bloque de Código:** Mejoré el bloque de la estructura del proyecto usando un formato de árbol (`text`) para que se vea más limpio.
-* **Jerarquía:** Usé negritas y listas para que el usuario no se pierda en bloques de texto densos.
-
-¿Te gustaría que añada una sección de "Capturas de Pantalla" o alguna tabla de ejemplo de los KPIs que mide la herramienta?
 
 ```
