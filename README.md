@@ -1,8 +1,3 @@
-¡Claro que sí! Aquí tienes una versión optimizada para GitHub. He mejorado la jerarquía visual, añadido iconos para que sea más legible y organizado las secciones para que luzcan profesionales.
-
-Solo tienes que copiar el contenido del bloque de abajo:
-
----
 
 ```markdown
 # 📊 Benchmarking Automatizado de Proveedores Logísticos
