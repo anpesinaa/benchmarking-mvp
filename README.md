@@ -89,7 +89,6 @@ benchmarking-proveedores/
 ├── data/
 │   └── data_mvp.csv      # Dataset principal
 ├── app.py                # Lógica de la aplicación Streamlit
-├── requirements.txt      # Dependencias del proyecto
 └── README.md             # Documentación
 
 ```
