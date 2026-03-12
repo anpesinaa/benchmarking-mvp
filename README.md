@@ -86,10 +86,9 @@ La aplicación se abrirá automáticamente en tu navegador en: `http://localhost
 
 ```text
 benchmarking-proveedores/
-├── data/
-│   └── data_mvp.csv      # Dataset principal
-├── app.py                # Lógica de la aplicación Streamlit
-└── README.md             # Documentación
+├── data_mvp.csv      # Dataset principal
+├── app.py            # Lógica de la aplicación Streamlit
+└── README.md         # Documentación
 
 ```
 
