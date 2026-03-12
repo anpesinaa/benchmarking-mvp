@@ -97,8 +97,3 @@ benchmarking-proveedores/
 
 💡 *Desarrollado para optimizar la cadena de suministro mediante análisis de datos.*
 
-```
-
-
-
-```
