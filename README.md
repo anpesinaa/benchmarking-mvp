@@ -1,5 +1,4 @@
 
-```markdown
 # 📊 Benchmarking Automatizado de Proveedores Logísticos
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,7 +18,6 @@ La herramienta genera rankings de desempeño por categoría y estima el riesgo o
 * **Manipulación de Datos:** Pandas, NumPy
 * **Visualización:** Plotly
 
----
 
 ## ⚙️ Instalación
 
