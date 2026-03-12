@@ -1,5 +1,5 @@
 
-# 📊 Benchmarking Automatizado de Proveedores Logísticos
+#  Benchmarking Automatizado de Proveedores Logísticos
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
@@ -11,7 +11,7 @@ La herramienta genera rankings de desempeño por categoría y estima el riesgo o
 
 ---
 
-## 🚀 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 * **Lenguaje:** Python
 * **Interfaz:** Streamlit
@@ -19,7 +19,7 @@ La herramienta genera rankings de desempeño por categoría y estima el riesgo o
 * **Visualización:** Plotly
 
 
-## ⚙️ Instalación
+## Instalación
 
 ### 1. Clonar el repositorio
 ```bash
@@ -59,7 +59,7 @@ pip install streamlit pandas numpy plotly
 
 ---
 
-## 💻 Ejecución
+## Ejecución
 
 Para lanzar la aplicación, ejecuta el siguiente comando en tu terminal:
 
@@ -72,7 +72,7 @@ La aplicación se abrirá automáticamente en tu navegador en: `http://localhost
 
 ---
 
-## 🛠️ Uso
+##  Uso
 
 1. **Filtros:** Selecciona la categoría de proveedores en el panel lateral.
 2. **Personalización:** Ajusta los pesos de evaluación (ponderaciones) para analizar distintos escenarios de negocio.
@@ -82,7 +82,7 @@ La aplicación se abrirá automáticamente en tu navegador en: `http://localhost
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 benchmarking-proveedores/
