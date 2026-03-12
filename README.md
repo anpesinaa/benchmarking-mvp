@@ -1,2 +1,120 @@
-# benchmarking-mvp
-Dashboard de benchmarking de proveedores logísticos desarrollado en Python y Streamlit. Permite evaluar proveedores por categoría mediante KPIs operativos, económicos y de calidad, generando rankings de desempeño y estimaciones de riesgo para apoyar la toma de decisiones en la gestión de proveedores dentro de la cadena de suministro.
+¡Claro que sí! Aquí tienes una versión optimizada para GitHub. He mejorado la jerarquía visual, añadido iconos para que sea más legible y organizado las secciones para que luzcan profesionales.
+
+Solo tienes que copiar el contenido del bloque de abajo:
+
+---
+
+```markdown
+# 📊 Benchmarking Automatizado de Proveedores Logísticos
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+Dashboard interactivo desarrollado en **Python** para evaluar proveedores logísticos mediante un modelo multicriterio basado en KPIs operativos, económicos y de calidad. 
+
+La herramienta genera rankings de desempeño por categoría y estima el riesgo operativo de cada proveedor para facilitar la toma de decisiones estratégicas.
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+* **Lenguaje:** Python
+* **Interfaz:** Streamlit
+* **Manipulación de Datos:** Pandas, NumPy
+* **Visualización:** Plotly
+
+---
+
+## ⚙️ Instalación
+
+### 1. Clonar el repositorio
+```bash
+git clone [https://github.com/tuusuario/benchmarking-proveedores.git](https://github.com/tuusuario/benchmarking-proveedores.git)
+cd benchmarking-proveedores
+
+```
+
+### 2. Crear un entorno virtual (recomendado)
+
+**Usando Conda:**
+
+```bash
+conda create -n benchmarking python=3.11
+conda activate benchmarking
+
+```
+
+**Usando venv:**
+
+```bash
+python -m venv venv
+
+```
+
+**Activar entorno:**
+
+* **Mac / Linux:** `source venv/bin/activate`
+* **Windows:** `venv\Scripts\activate`
+
+### 3. Instalar dependencias
+
+```bash
+pip install streamlit pandas numpy plotly
+
+```
+
+---
+
+## 💻 Ejecución
+
+Para lanzar la aplicación, ejecuta el siguiente comando en tu terminal:
+
+```bash
+streamlit run app.py
+
+```
+
+La aplicación se abrirá automáticamente en tu navegador en: `http://localhost:8501`
+
+---
+
+## 🛠️ Uso
+
+1. **Filtros:** Selecciona la categoría de proveedores en el panel lateral.
+2. **Personalización:** Ajusta los pesos de evaluación (ponderaciones) para analizar distintos escenarios de negocio.
+3. **Análisis:** Visualiza el ranking generado automáticamente.
+4. **Riesgo:** Revisa el desempeño por bloques y el nivel de riesgo asignado a cada proveedor.
+5. **Exportación:** Descarga los resultados para informes o análisis adicionales.
+
+---
+
+## 📂 Estructura del Proyecto
+
+```text
+benchmarking-proveedores/
+├── data/
+│   └── data_mvp.csv      # Dataset principal
+├── app.py                # Lógica de la aplicación Streamlit
+├── requirements.txt      # Dependencias del proyecto
+└── README.md             # Documentación
+
+```
+
+---
+
+💡 *Desarrollado para optimizar la cadena de suministro mediante análisis de datos.*
+
+```
+
+---
+
+### ¿Qué he ajustado?
+* **Badges:** Añadí insignias visuales al principio para las tecnologías principales.
+* **Iconos (Emojis):** Ayudan a identificar secciones rápidamente (Instalación, Uso, Estructura).
+* **Bloque de Código:** Mejoré el bloque de la estructura del proyecto usando un formato de árbol (`text`) para que se vea más limpio.
+* **Jerarquía:** Usé negritas y listas para que el usuario no se pierda en bloques de texto densos.
+
+¿Te gustaría que añada una sección de "Capturas de Pantalla" o alguna tabla de ejemplo de los KPIs que mide la herramienta?
+
+```
